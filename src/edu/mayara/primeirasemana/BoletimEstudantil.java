@@ -1,3 +1,4 @@
+package edu.mayara.primeirasemana;
 public class BoletimEstudantil {
 
 
